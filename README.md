@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @mahwish-ahmad
+- 👀 I’m interested in persuing a career in Computer Science, specifically going into Cybersecurity
+- 🌱 I’m currently learning how to code in languages C and C++
+- 📫 My IG: mahwish.a_ || My LinkedIn: www.linkedin.com/in/mahwish-ahmad-21154a2b2
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm not just a coder, I also love to cook. I'm always eager to try new recipes!
