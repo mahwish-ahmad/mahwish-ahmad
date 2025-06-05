@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mahwish-ahmad
 - 😄 Pronouns: She/Her
 - 👀 I’m interested in pursuing a career in Computer Science, specifically going into Cybersecurity
-- 🌱 I’m eager to learn HTML and JavaScript
 - 📫 My IG: mahwish.a_ || My LinkedIn: www.linkedin.com/in/mahwish-ahmad-21154a2b2
 - ⚡ Fun fact: I'm not just a coder, I also love to cook. I'm always eager to try new recipes!
